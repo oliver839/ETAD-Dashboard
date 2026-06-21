@@ -1,5 +1,5 @@
+package com.olivermandic.etad.controller;
 
-import com.olivermandic.etad.controller.TelemetryMonitor;
 import com.olivermandic.etad.model.Sensor;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
